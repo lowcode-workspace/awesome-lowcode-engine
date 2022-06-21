@@ -2,8 +2,13 @@
 
 ## 解决方案
 
+- [基于 formily 实现的表单解决方案](https://github.com/seada-low-code/lowcode-ecology/tree/main/packages/formily-materials)
+
 ## 物料库
-* [基于next实现的高级表单低代码物料](https://github.com/Dogtiti/next-pro-lowcode-materials)
+
+- [基于 next 实现的高级表单低代码物料](https://github.com/Dogtiti/next-pro-lowcode-materials)
+- [基于 Ant Design Pro 实现的高级物料](https://github.com/seada-low-code/lowcode-ecology/tree/main/packages/antd-materials)
+
 ## 插件
 
 ## 其他
