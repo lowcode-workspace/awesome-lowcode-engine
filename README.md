@@ -3,6 +3,7 @@
 ## 解决方案
 
 - [基于 formily 实现的表单解决方案](https://github.com/seada-low-code/lowcode-ecology/tree/main/packages/formily-materials)
+- [umi4 中使用 lowcode-engine](https://github.com/moling1234/umi4-lowcode-engine-demo)
 
 ## 物料库
 
