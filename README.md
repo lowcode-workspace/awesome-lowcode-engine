@@ -10,6 +10,7 @@
 - [Rax 示例工程](https://github.com/Sarali2022/lowcode-engine-rax)
 - [多页面示例工程](https://github.com/blueju/lowcode-multi-page-demo)
 - [Umi 示例工程](https://github.com/Juster5/umi-lowcode-demo)
+- [Flutter 示例工程](https://github.com/yanbingbing/flutter-lowcode-demo)
 
 ## 物料库
 
